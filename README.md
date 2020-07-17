@@ -12,6 +12,10 @@
 <a href=https://linkedin.com/in/prashantitis target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="prashantitis" height="20" width="20" /></a>
 <a href=https://stackoverflow.com/prashantitis target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg alt="prashantitis" height="20" width="20" /></a>
 <a href=https://kaggle.com/prashantitis target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg alt="prashantitis" height="20" width="20" /></a>
+<a href=http://arxiv.org/a/gupta_p_1 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/arxiv.svg alt="prashantitis" height="20" width="20" />
 <a href=https://fb.com/prashantitis target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="prashantitis" height="20" width="20" /></a>
-<a href=https://instagram.com/prashantitis target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="prashantitis" height="20" width="20" /></a>
+<a href=https://instagram.com/prashantitis target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="prashantitis" height="20" width="20" />
+  
+  
+  </a>
 </p>

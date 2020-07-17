@@ -1,10 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Prashant Gupta</h1>
+<h3 align="center">Love data and concurrency</h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=prashantitis alt=prashantitis/> </p>
 
-[<img src = "https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logoColor=orange">](https://www.kaggle.com/prashantitis)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/prashantitis) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@prashantitis)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prashantitis/)  [<img src = "https://img.shields.io/badge/mwl-madewithml-%230077B5.svg?&style=for-the-badge&logoColor=blueviolet">](https://madewithml.com/@x0v/) [<img src = "https://img.shields.io/badge/Arxiv-%230077B5.svg?&style=for-the-badge&logoColor=red">](http://arxiv.org/a/gupta_p_1) [<img src = "https://img.shields.io/badge/SO-%230077B5.svg?&style=for-the-badge&logoColor=red">](https://stackoverflow.com/users/2058355/prashantitis?tab=profile) 
+- 📫 How to reach me **contact@imprashant.com**
 
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=prashantitis&show_icons=true alt=prashantitis /> </p>
 
-
-
-
-![github stats](https://github-readme-stats.vercel.app/api?username=prashantitis&show_icons=true) 
+<p align="center">
+<a href=https://dev.to/prashantitis target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="prashantitis" height="20" width="20" /></a>
+<a href=https://twitter.com/prashantitis target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="prashantitis" height="20" width="20" /></a>
+<a href=https://linkedin.com/in/prashantitis target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="prashantitis" height="20" width="20" /></a>
+<a href=https://stackoverflow.com/prashantitis target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg alt="prashantitis" height="20" width="20" /></a>
+<a href=https://kaggle.com/prashantitis target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg alt="prashantitis" height="20" width="20" /></a>
+<a href=https://fb.com/prashantitis target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="prashantitis" height="20" width="20" /></a>
+<a href=https://instagram.com/prashantitis target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="prashantitis" height="20" width="20" /></a>
+</p>

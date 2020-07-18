@@ -3,17 +3,20 @@
 
 - 🔭 I’m currently working on **Information extraction in Fintech Domain**
 
-- 👨‍💻 All of my projects are available at [https://imprashant.com/projects](https://imprashant.com/projects)
+- 👨‍💻 All of my projects are available at [my space](https://imprashant.com/projects)
 
-- 📝 I regulary write articles on [https://imprashant.com](https://imprashant.com)
+- 📝 I regulary write articles on my [scratchpad](https://imprashant.com)
 
 - 💬 Chat me about **databases, concurrency, kafka, CV, NLP, ML, DL**
 
 - 📫 How to reach me **contact@imprashant.com**
 
+<h3 align="center">I work on</h3>
 
-<p align="center">  I work on   <br><br>
+<p align="center">  
 <img src=https://icongr.am/devicon/mongodb-original.svg?size=35&color=fbff00 alt=mongo width="30" height="30"/><img src=https://icongr.am/simple/keras.svg?size=35&color=e31616&colored=false alt=keras width="30" height="30"/><img src=https://icongr.am/simple/pytorch.svg?size=35&color=fb8e8e&colored=false alt=keras width="30" height="30"/><img src=https://icongr.am/simple/tensorflow.svg?size=35&color=ffa500&colored=false alt=tensorflow width="30" height="30"/><img src=https://icongr.am/devicon/amazonwebservices-original.svg?size=35&color=fbff00 alt=aws width="30" height="30"/>  <img src=https://icongr.am/devicon/python-original.svg?size=35&color=fbff00 alt=python width="30" height="30"/> </p><p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=prashantitis&show_icons=true alt=prashantitis /> </p>
+
+
 
 <p align="center">
 <a href=https://dev.to/prashantitis target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="prashantitis" height="20" width="20" /></a>
